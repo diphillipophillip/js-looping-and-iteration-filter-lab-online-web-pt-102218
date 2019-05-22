@@ -8,6 +8,6 @@ function findMatching(drivers, name) {
 
 function fuzzyMatch(drivers, name) {
   return drivers.filter(function(driverName){
-    name.length 
+    return 
   })
 }
